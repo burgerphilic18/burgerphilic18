@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm burgerphilic18!
 
-<!--
-**burgerphilic18/burgerphilic18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80)
 
-Here are some ideas to get you started:
+## 👨‍🎓 About Me
+- 🧑‍💻 **Student** passionate about building cool stuff with JavaScript.
+- 🌐 Exploring the worlds of **Fullstack Web2 & Web3 development**.
+- 🤖 I thrive in the exciting universe of **competitive programming**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+Check out my repositories for a taste of what I’m working on!  
+I love building, learning, and experimenting—my favorites are always evolving, so take a peek at [my GitHub repos](https://github.com/burgerphilic18?tab=repositories) for the latest.
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript (and always learning more!)
+- **Interests:** Fullstack apps, smart contracts, DApps, algorithmic challenges
+
+## ⚽ Outside of Code
+- Football fanatic—love both playing and following the beautiful game!
+- 📸 Amateur photographer, always seeking the next great shot.
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-hota/)
+
+---
+
+> “Code. Create. Compete. Capture moments—on and off the pitch.”
