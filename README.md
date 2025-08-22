@@ -22,6 +22,5 @@ I love building, learning, and experimenting—my favorites are always evolving,
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-hota/)
 
----
 
-> “Code. Create. Compete. Capture moments—on and off the pitch.”
+> “0s and 1s are easier to understand than ABCs”
