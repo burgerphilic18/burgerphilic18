@@ -4,8 +4,8 @@
 
 ## 👨‍🎓 About Me
 - 🧑‍💻 **Student** passionate about building cool stuff with JavaScript.
-- 🌐 Exploring the worlds of **Fullstack Web2 & Web3 development**.
-- 🤖 I thrive in the exciting universe of **competitive programming**.
+- 🌐 I thrive in the exciting universe of **Fullstack Web2 & Web3 development**.
+- 🤖 Exploring the worlds of **competitive programming**.
 
 ## 🚀 My Projects
 Check out my repositories for a taste of what I’m working on!  
