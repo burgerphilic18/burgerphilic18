@@ -3,7 +3,7 @@
 ![Profile Banner](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80)
 
 ## 👨‍🎓 About Me
-- 🧑‍💻 **Student** passionate about building cool stuff with JavaScript.
+- 🧑‍💻 **Student** passionate about building cool stuff with JavaScript & TypeScript.
 - 🌐 I thrive in the exciting universe of **Fullstack Web2 & Web3 development**.
 - 🤖 Exploring the worlds of **competitive programming**.
 
