@@ -9,7 +9,7 @@
 
 ## 🚀 My Projects
 Check out my repositories for a taste of what I’m working on!  
-I love building, learning, and experimenting—my favorites are always evolving, so take a peek at [my GitHub repos](https://github.com/burgerphilic18?tab=repositories) for the latest.
+I love building, learning, and experimenting. My favorites are always evolving, so take a peek at [my GitHub repos](https://github.com/burgerphilic18?tab=repositories) for the latest.
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Python, C, C++ (and always learning more!)
