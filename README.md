@@ -12,7 +12,7 @@ Check out my repositories for a taste of what I’m working on!
 I love building, learning, and experimenting—my favorites are always evolving, so take a peek at [my GitHub repos](https://github.com/burgerphilic18?tab=repositories) for the latest.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript (and always learning more!)
+- **Languages:** JavaScript, Python, C, C++ (and always learning more!)
 - **Interests:** Fullstack apps, smart contracts, DApps, algorithmic challenges
 
 ## ⚽ Outside of Code
