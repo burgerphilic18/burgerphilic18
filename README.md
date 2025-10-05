@@ -16,7 +16,7 @@ I love building, learning, and experimenting. My favorites are always evolving, 
 - **Interests:** Fullstack apps, smart contracts, DApps, algorithmic challenges
 
 ## ⚽ Outside of Code
-- Football fanatic—love both playing and following the beautiful game!
+- Football fanatic. I love both playing and following the beautiful game!
 - 📸 Amateur photographer, always seeking the next great shot.
 
 ## 🌐 Connect with Me
