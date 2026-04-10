@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Spandan Hota!
+# Hi there, I'm Spandan Hota!
 
 ## 👨‍🎓 About Me
 - **B.Tech Student** in Electrical & Electronics Engineering at **IIIT Bhubaneswar** (2024–2028).
