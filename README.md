@@ -18,7 +18,11 @@ Check out my repositories for a taste of what I’m working on! Take a peek at [
 - **Photographer:** Always seeking the next great shot.
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-hota/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spandanhota2005@gmail.com)
+<a href="https://www.linkedin.com/in/spandan-hota/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+</a>
+<a href="mailto:spandanhota2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+</a>
 
 ![Profile Banner](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80)
