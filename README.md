@@ -20,7 +20,7 @@ Check out my repositories for a taste of what I’m working on! Take a peek at [
 - **Photographer:** Always seeking the next great shot.
 
 ## 🌐 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-hota/)
-- 📧 **Email:** spandanhota2005@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-hota/)
+[![Gmail](https://shields.io)](mailto:spandanhota2005@gmail.com)
 
 > “0s and 1s are easier to understand than ABCs”
