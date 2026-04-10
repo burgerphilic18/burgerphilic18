@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Spandan Hota!
 
-![Profile Banner](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80)
-
 ## 👨‍🎓 About Me
 - **B.Tech Student** in Electrical & Electronics Engineering at **IIIT Bhubaneswar** (2024–2028).
 - Passionate **Fullstack Developer** bridging the gap between **Web2** & **Web3**
@@ -21,6 +19,6 @@ Check out my repositories for a taste of what I’m working on! Take a peek at [
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-hota/)
-[![Gmail](https://shields.io)](mailto:spandanhota2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spandanhota2005@gmail.com)
 
-> “0s and 1s are easier to understand than ABCs”
+![Profile Banner](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80)
