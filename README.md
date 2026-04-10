@@ -1,26 +1,26 @@
-# 👋 Hi there, I'm burgerphilic18!
+# 👋 Hi there, I'm Spandan Hota!
 
 ![Profile Banner](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80)
 
 ## 👨‍🎓 About Me
-- 🧑‍💻 **Student** passionate about building cool stuff with JavaScript & TypeScript.
-- 🌐 I thrive in the exciting universe of **Fullstack Web2 & Web3 development**.
-- 🤖 Exploring the worlds of **competitive programming**.
-
-## 🚀 My Projects
-Check out my repositories for a taste of what I’m working on!  
-I love building, learning, and experimenting. My favorites are always evolving, so take a peek at [my GitHub repos](https://github.com/burgerphilic18?tab=repositories) for the latest.
+- **B.Tech Student** in Electrical & Electronics Engineering at **IIIT Bhubaneswar** (2024–2028).
+- Passionate **Fullstack Developer** bridging the gap between **Web2** & **Web3**
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, C, C++ (and always learning more!)
-- **Interests:** Fullstack apps, smart contracts, DApps, algorithmic challenges
+- **Languages:** JavaScript, TypeScript, Python, C, C++, Solidity.
+- **Web2:** React.js, Next.js, Node.js, Express.js, TailwindCSS, PostgreSQL.
+- **Web3:** Hardhat, Ethers.js, Chainlink VRF. 
+- **Tools:** Git, GitHub, Linux, Vercel, Supabase, Firebase, Drizzle ORM.
+
+## 🚀 My Projects
+Check out my repositories for a taste of what I’m working on! Take a peek at [my GitHub repos](https://github.com/burgerphilic18?tab=repositories) for the latest.
 
 ## ⚽ Outside of Code
-- Football fanatic. I love both playing and following the beautiful game!
-- 📸 Amateur photographer, always seeking the next great shot.
+- **Football Fanatic:** I love both playing and following the beautiful game! Liverpool FC
+- **Photographer:** Always seeking the next great shot.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-hota/)
-
+📧 **Email:** spandanhota2005@gmail.com
 
 > “0s and 1s are easier to understand than ABCs”
